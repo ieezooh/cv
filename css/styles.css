@@ -1,0 +1,38 @@
+/***************tag selector*********************************************/
+body{background-color:hsl(120, 100%, 75%);
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+  }
+img{border-radius: 50%;
+  height: 200px;}
+hr{background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  width: 7%;
+  border-color: grey;
+  border-width: 5px;}
+h1{color: #66BFbf;}
+h3{color: #66BFbf;}
+body{color: grey;}
+table:hover{background-color: gold;}
+a:hover{background-color: powderblue;}
+div{background-color: powderblue;}
+/***********************************class selectors************************/
+.table1{
+  background-color: lightblue;
+}
+.table2{
+  background-color: powderblue;
+}
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
+/*************************************id selectors****************************/
+#fontsize{
+  color: black;
+  font-size: 25px;
+}
